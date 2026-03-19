@@ -32,7 +32,7 @@ Da du kein Git auf deinem Mac installieren möchtest (wegen Speicherplatz), kann
 ### 5. Umgebungsvariablen setzen
 Gehe in Vercel zu **Settings → Environment Variables** und füge diese hinzu:
 - `GEMINI_API_KEY`: Dein Key von Google AI Studio.
-- `RESEND_API_KEY`: Dein Key von Resend.com.
+- `RESEND_API_KEY`: Dein Key von Resend.com. 
 - `EMAIL_TO`: `josephinewerner12@gmail.com`.
 - `CRON_SECRET`: Ein ausgedachtes Passwort (z.B. `mein-geheimnis-123`).
 
