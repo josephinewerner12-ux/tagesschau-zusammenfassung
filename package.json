@@ -1,5 +1,5 @@
 {
-  "name": "tagesschau-zusammenfassung",
+  "name": "tagesschau-summary",
   "version": "0.1.0",
   "private": true,
   "scripts": {
@@ -13,11 +13,5 @@
     "react-dom": "latest",
     "@google/generative-ai": "latest",
     "resend": "latest"
-  },
-  "devDependencies": {
-    "typescript": "latest",
-    "@types/node": "latest",
-    "@types/react": "latest",
-    "@types/react-dom": "latest"
   }
 }
